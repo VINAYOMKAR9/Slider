@@ -1,0 +1,22 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+#main{
+    margin: auto;
+    width: 24%;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn{
+    margin: auto;
+    margin-top: 20px;
+    width: 20%;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+
+}
